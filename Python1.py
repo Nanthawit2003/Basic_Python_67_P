@@ -60,16 +60,16 @@ my_variabal_Name = "John"
 # Part: Python String
 #
 """
-x = "Hey Brus"
+x = "Hey Bruh"
 print(x)
 
-y = """1 Hey Brus
-2 Hey Brus
-3 Hey Brus
+y = """1 Hey Bruh
+2 Hey Bruh
+3 Hey Bruh
 """
 print(y)
 
-x = "Hey Brus"
+x = "Hey Bruh"
 print(x[2])
 print(lan(x))
 print("Hey" in x)
@@ -77,7 +77,7 @@ print("what'sup" not in x)
 print(x.upper())
 print(x,lower())
 
-print(x.replace("Brus", "sis"))
+print(x.replace("Bruh", "sis"))
 print(x.split(""))
 
 a = "Apple"
